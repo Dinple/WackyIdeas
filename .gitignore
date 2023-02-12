@@ -1,0 +1,4 @@
+ColorPlace/benchmark/ispd2005/*
+ColorPlace/benchmark/ispd2015/*
+/__pycache__/*
+ColorPlace/src/__pycache__/*
