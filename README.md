@@ -1,2 +1,2 @@
 # WackyIdeas
-For wacky ideas, dont have to work well
+Trash can for my wacky ideas, dont have to work well
